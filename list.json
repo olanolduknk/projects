@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Project One",
+    "link": "https://example.com",
+    "logo": "https://raw.githubusercontent.com/olanolduknk/projects/main/assets/project-one.png"
+  },
+  {
+    "title": "Project Two",
+    "link": "https://example.com",
+    "logo": "https://raw.githubusercontent.com/olanolduknk/projects/main/assets/project-two.png"
+  },
+  {
+    "title": "Project Three",
+    "link": "https://example.com",
+    "logo": "https://raw.githubusercontent.com/olanolduknk/projects/main/assets/project-three.png"
+  }
+]
